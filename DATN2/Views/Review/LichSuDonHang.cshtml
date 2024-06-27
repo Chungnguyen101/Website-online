@@ -1,0 +1,87 @@
+﻿@model IEnumerable<DATN2.Models.EF.Order>
+@if (Model != null)
+{
+    var i = 1;
+    <h2>Lịch sử mua hàng</h2>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <td>STT</td>
+                <td>Mã DH</td>
+                <td>Quá trình vận chuyển</td>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@i</td>
+                    <td>@item.Code</td>
+                    <td>
+                        @if (item.Status == 1)
+                        {
+                            <span>Đang chuẩn bị hàng</span>
+                        }
+                        @if (item.Status == 0)
+                        {
+                            <span>Đang vận chuyển</span>
+                        }
+                        @if (item.Status == 2)
+                        {
+                            <span>Hoàn thành</span>
+                        }
+                        @if (item.Status == 3)
+                        {
+                            <span>Đơn hàng bị hủy</span>
+                        }
+                    </td>
+                    <td>
+                        @*<a href="#" id="btnHuy" data-id="@item.Id" class="btn btn-sm btn-danger">Hủy đơn hàng</a>*@
+                        @if (item.Status == 1 || item.Status == 0)
+                        {
+                            <a href="#" id="btnHuy" data-id="@item.Id" class="btn btn-sm btn-danger">Hủy đơn hàng</a>
+                        }
+                        else if (item.Status == 2)
+                        {
+                            <button type="button" class="btn btn-sm btn-success">Hoàn thành</button>
+                        }
+                        else 
+                        {
+                            <button type="button" class="btn btn-sm btn-danger" disabled>Hủy đơn hàng</button>
+                        }
+                    </td>
+                </tr>
+                i++;
+            }
+        </tbody>
+    </table>
+
+    <script>
+
+        $(document).ready(function () {
+
+            $('body').on('click', '#btnHuy', function () {
+                var id = $(this).data("id");
+
+                if (confirm("Bạn có muốn hủy đơn hàng không?")) {
+                    console.log(id);
+
+                    $.ajax({
+                        url: '/UserOrders/CancelOrder',
+                        type: 'POST',
+                        data: { id: id },
+                        success: function (res) {
+                            if (res.Success) {
+                                location.reload();
+                            }
+                        },
+                        error: function (xhr, status, error) {
+                            console.error(xhr.responseText);
+                        }
+                    });
+                }
+
+            });
+        });
+    </script>
+}

@@ -1,0 +1,310 @@
+C:\Đồ Án TN\DATN2\DATN2\bin\DATN2.dll.config
+C:\Đồ Án TN\DATN2\DATN2\bin\DATN2.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\DATN2.pdb
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\csc.exe
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\csc.exe.config
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\csc.rsp
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\csi.exe
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\csi.exe.config
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\csi.rsp
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\System.AppContext.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\System.Collections.Immutable.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\System.Console.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\System.IO.Compression.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\System.IO.FileSystem.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\System.Net.Http.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\System.Net.Sockets.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\System.ValueTuple.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\System.Xml.XPath.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\vbc.exe
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\vbc.exe.config
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\vbc.rsp
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\VBCSCompiler.exe
+C:\Đồ Án TN\DATN2\DATN2\bin\roslyn\VBCSCompiler.exe.config
+C:\Đồ Án TN\DATN2\DATN2\bin\Antlr3.Runtime.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\EntityFramework.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\EntityFramework.SqlServer.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\Microsoft.Owin.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\Microsoft.Owin.Security.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\Microsoft.Owin.Security.Google.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\Microsoft.Web.Infrastructure.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\Newtonsoft.Json.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\Owin.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\System.Web.Helpers.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\System.Web.Mvc.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\System.Web.Optimization.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\System.Web.Razor.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\System.Web.WebPages.Deployment.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\System.Web.WebPages.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\System.Web.WebPages.Razor.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\WebGrease.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\System.Web.Helpers.xml
+C:\Đồ Án TN\DATN2\DATN2\bin\System.Web.Mvc.xml
+C:\Đồ Án TN\DATN2\DATN2\bin\System.Web.Optimization.xml
+C:\Đồ Án TN\DATN2\DATN2\bin\System.Web.Razor.xml
+C:\Đồ Án TN\DATN2\DATN2\bin\System.Web.WebPages.xml
+C:\Đồ Án TN\DATN2\DATN2\bin\System.Web.WebPages.Deployment.xml
+C:\Đồ Án TN\DATN2\DATN2\bin\System.Web.WebPages.Razor.xml
+C:\Đồ Án TN\DATN2\DATN2\bin\Newtonsoft.Json.xml
+C:\Đồ Án TN\DATN2\DATN2\bin\Antlr3.Runtime.pdb
+C:\Đồ Án TN\DATN2\DATN2\bin\EntityFramework.xml
+C:\Đồ Án TN\DATN2\DATN2\bin\EntityFramework.SqlServer.xml
+C:\Đồ Án TN\DATN2\DATN2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Đồ Án TN\DATN2\DATN2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Đồ Án TN\DATN2\DATN2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Đồ Án TN\DATN2\DATN2\bin\Microsoft.Owin.xml
+C:\Đồ Án TN\DATN2\DATN2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Đồ Án TN\DATN2\DATN2\bin\Microsoft.Owin.Security.xml
+C:\Đồ Án TN\DATN2\DATN2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Đồ Án TN\DATN2\DATN2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Đồ Án TN\DATN2\DATN2\bin\Microsoft.Owin.Security.Google.xml
+C:\Đồ Án TN\DATN2\DATN2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Đồ Án TN\DATN2\DATN2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Đồ Án TN\DATN2\DATN2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Đồ Án TN\DATN2\DATN2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Đồ Án TN\DATN2\DATN2\obj\Debug\DATN2.csproj.AssemblyReference.cache
+C:\Đồ Án TN\DATN2\DATN2\obj\Debug\DATN2.csproj.CoreCompileInputs.cache
+C:\Đồ Án TN\DATN2\DATN2\obj\Debug\DATN2.csproj.CopyComplete
+C:\Đồ Án TN\DATN2\DATN2\obj\Debug\DATN2.dll
+C:\Đồ Án TN\DATN2\DATN2\obj\Debug\DATN2.pdb
+C:\Đồ Án TN\DATN2\DATN2\obj\Debug\DATN2.Migrations.CreatedDataabase.resources
+C:\Đồ Án TN\DATN2\DATN2\obj\Debug\DATN2.csproj.GenerateResource.cache
+C:\Đồ Án TN\DATN2\DATN2\obj\Debug\DATN2.Migrations.UpdateCategory.resources
+C:\Đồ Án TN\DATN2\DATN2\obj\Debug\DATN2.Migrations.UpdateData.resources
+C:\Đồ Án TN\DATN2\DATN2\bin\CKFinder.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\CKFinder.pdb
+C:\Đồ Án TN\DATN2\DATN2\obj\Debug\DATN2.Migrations.UpdateActive.resources
+C:\Đồ Án TN\DATN2\DATN2\obj\Debug\DATN2.Migrations.ChangeModel.resources
+C:\Đồ Án TN\DATN2\DATN2\bin\PagedList.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\PagedList.Mvc.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\PagedList.xml
+C:\Đồ Án TN\DATN2\DATN2\bin\PagedList.Mvc.xml
+C:\Đồ Án TN\DATN2\DATN2\obj\Debug\DATN2.Migrations.UpdateProductCategory.resources
+C:\Đồ Án TN\DATN2\DATN2\obj\Debug\DATN2.Migrations.Update1206.resources
+C:\Đồ Án TN\DATN2\DATN2\obj\Debug\DATN2.Migrations.Update12061.resources
+C:\Đồ Án TN\DATN2\DATN2\obj\Debug\DATN2.Migrations.CreateTBThongKe.resources
+C:\Đồ Án TN\DATN2\DATN2\obj\Debug\DATN2.Migrations.UpdatePayment.resources
+C:\Đồ Án TN\DATN2\DATN2\bin\Dapper.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\Dapper.xml
+C:\Đồ Án TN\DATN2\DATN2\obj\Debug\DATN2.Migrations.UpdateEmail.resources
+C:\Đồ Án TN\DATN2\DATN2\obj\Debug\DATN2.Migrations.UpdateTotalAmount.resources
+C:\Đồ Án TN\DATN2\DATN2\obj\Debug\DATN2.Migrations.updateSubscribe.resources
+C:\Đồ Án TN\DATN2\DATN2\obj\Debug\DATN2.Migrations.updateOriginalPrice.resources
+C:\Đồ Án TN\DATN2\DATN2\obj\Debug\DATN2.Migrations.EditCategory2.resources
+C:\Đồ Án TN\DATN2\DATN2\obj\Debug\DATN2.Migrations.AddStatus.resources
+C:\Đồ Án TN\DATN2\DATN2\obj\Debug\DATN2.Migrations.InsertCustomerIdOrder.resources
+C:\Đồ Án TN\DATN2\DATN2\obj\Debug\DATN2.Migrations.Table_Review.resources
+C:\Đồ Án TN\DATN2\DATN2\obj\Debug\DATN2.Migrations.tableWishList.resources
+C:\Đồ Án TN\DATN2\DATN2\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\System.Buffers.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\System.Memory.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\System.Numerics.Vectors.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\System.Threading.Tasks.Extensions.dll
+C:\Đồ Án TN\DATN2\DATN2\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Đồ Án TN\DATN2\DATN2\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Đồ Án TN\DATN2\DATN2\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Đồ Án TN\DATN2\DATN2\bin\System.Buffers.xml
+C:\Đồ Án TN\DATN2\DATN2\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Đồ Án TN\DATN2\DATN2\bin\System.Memory.xml
+C:\Đồ Án TN\DATN2\DATN2\bin\System.Numerics.Vectors.xml
+C:\Đồ Án TN\DATN2\DATN2\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Đồ Án TN\DATN2\DATN2\bin\System.Threading.Tasks.Extensions.xml
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\DATN2.dll.config
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\DATN2.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\DATN2.pdb
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\csc.exe
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\csc.exe.config
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\csc.rsp
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\csi.exe
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\csi.exe.config
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\csi.rsp
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\System.AppContext.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\System.Collections.Immutable.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\System.Console.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\System.IO.Compression.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\System.IO.FileSystem.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\System.Net.Http.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\System.Net.Sockets.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\System.ValueTuple.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\System.Xml.XPath.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\vbc.exe
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\vbc.exe.config
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\vbc.rsp
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\VBCSCompiler.exe
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\roslyn\VBCSCompiler.exe.config
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\Antlr3.Runtime.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\CKFinder.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\Dapper.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\EntityFramework.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\EntityFramework.SqlServer.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\Microsoft.Owin.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\Microsoft.Owin.Security.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\Microsoft.Owin.Security.Google.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\Microsoft.Web.Infrastructure.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\Newtonsoft.Json.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\Owin.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\PagedList.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\PagedList.Mvc.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\System.Buffers.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\System.Memory.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\System.Numerics.Vectors.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\System.Threading.Tasks.Extensions.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\System.Web.Helpers.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\System.Web.Mvc.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\System.Web.Optimization.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\System.Web.Razor.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\System.Web.WebPages.Deployment.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\System.Web.WebPages.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\System.Web.WebPages.Razor.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\WebGrease.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\CKFinder.pdb
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\Dapper.xml
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\PagedList.xml
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\PagedList.Mvc.xml
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\System.Buffers.xml
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\System.Memory.xml
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\System.Numerics.Vectors.xml
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\System.Threading.Tasks.Extensions.xml
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\System.Web.Helpers.xml
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\System.Web.Mvc.xml
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\System.Web.Optimization.xml
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\System.Web.Razor.xml
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\System.Web.WebPages.xml
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\System.Web.WebPages.Deployment.xml
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\System.Web.WebPages.Razor.xml
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\Newtonsoft.Json.xml
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\Antlr3.Runtime.pdb
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\EntityFramework.xml
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\EntityFramework.SqlServer.xml
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\Microsoft.Owin.xml
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\Microsoft.Owin.Security.xml
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\Microsoft.Owin.Security.Google.xml
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\obj\Debug\DATN2.csproj.AssemblyReference.cache
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\obj\Debug\DATN2.Migrations.CreatedDataabase.resources
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\obj\Debug\DATN2.Migrations.UpdateCategory.resources
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\obj\Debug\DATN2.Migrations.UpdateData.resources
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\obj\Debug\DATN2.Migrations.UpdateActive.resources
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\obj\Debug\DATN2.Migrations.ChangeModel.resources
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\obj\Debug\DATN2.Migrations.UpdateProductCategory.resources
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\obj\Debug\DATN2.Migrations.Update1206.resources
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\obj\Debug\DATN2.Migrations.Update12061.resources
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\obj\Debug\DATN2.Migrations.CreateTBThongKe.resources
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\obj\Debug\DATN2.Migrations.UpdatePayment.resources
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\obj\Debug\DATN2.Migrations.UpdateEmail.resources
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\obj\Debug\DATN2.Migrations.UpdateTotalAmount.resources
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\obj\Debug\DATN2.Migrations.updateSubscribe.resources
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\obj\Debug\DATN2.Migrations.updateOriginalPrice.resources
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\obj\Debug\DATN2.Migrations.EditCategory2.resources
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\obj\Debug\DATN2.Migrations.AddStatus.resources
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\obj\Debug\DATN2.Migrations.InsertCustomerIdOrder.resources
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\obj\Debug\DATN2.Migrations.Table_Review.resources
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\obj\Debug\DATN2.Migrations.tableWishList.resources
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\obj\Debug\DATN2.csproj.GenerateResource.cache
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\obj\Debug\DATN2.csproj.CoreCompileInputs.cache
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\obj\Debug\DATN2.csproj.CopyComplete
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\obj\Debug\DATN2.dll
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\obj\Debug\DATN2.pdb
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\obj\Debug\DATN2.Migrations.AddProductRelationshipToTopSellingProducts.resources
+C:\Đồ Án TN\DATN2 - Sao chép\DATN2\obj\Debug\DATN2.Migrations.AddTopSellingProduct5009.resources

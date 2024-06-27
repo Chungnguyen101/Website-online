@@ -1,0 +1,21 @@
+﻿@model List<DATN2.Models.EF.BestSellingProductViewModel>
+
+<h2>Top 5 Sản phẩm bán chạy</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Tên sản phẩm</th>
+            <th>Số lượng bán</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.ProductName</td>
+                <td>@product.TotalQuantitySold</td>
+            </tr>
+        }
+    </tbody>
+</table>
